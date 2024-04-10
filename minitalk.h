@@ -6,7 +6,7 @@
 /*   By: spitul <spitul@student.42berlin.de >       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/25 16:54:45 by spitul            #+#    #+#             */
-/*   Updated: 2024/03/27 18:26:09 by spitul           ###   ########.fr       */
+/*   Updated: 2024/04/02 16:55:24 by spitul           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,5 +18,6 @@
 # include <unistd.h>
 # include <sys/types.h>
 # include "libft/libft.h"
+# include "libft/ft_printf.h"
 
 #endif
